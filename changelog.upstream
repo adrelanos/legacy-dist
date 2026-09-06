@@ -1,3 +1,35 @@
+commit 01f58522a36015d8b1a2308d29d76e7bcfaab946
+Merge: f44fe5c 6847039
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Aug 31 03:48:13 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/ArrayBolt3/arraybolt3/trixie'
+
+commit 68470399dd87403281280224c2d5501cb85e13a4
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Aug 30 23:39:01 2026 -0400
+
+    Don't version-bump keyboard_configuration_debconf_preseed in preinst script
+
+commit a837c8cca671e5f2b3c4c9f5f3e700415a2e9be4
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Aug 30 15:08:21 2026 -0400
+
+    Polish
+
+commit ffb561b9d5852affd8f53deb7547c0541d4fda2c
+Merge: 4ca2367 9bde0d9
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Aug 30 14:02:16 2026 -0400
+
+    Merge branch 'ai' into arraybolt3/trixie
+
+commit f44fe5c66a9446bf3010e2bf5807a3a121ceb947
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 25 03:22:49 2026 +0000
+
+    bumped changelog version
+
 commit cb472b4d65ec73d0aa9fe2fbc44d09045d014445
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Aug 24 01:49:10 2026 -0400
